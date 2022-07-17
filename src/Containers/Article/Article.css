@@ -1,0 +1,22 @@
+.article-content{
+    max-width: 700px;
+    min-width: 300px;
+    margin: 100px auto;
+}
+
+.article-content h2{
+    font-size: 25px;
+    margin-bottom: 20px;
+    margin: auto 5vw ;
+}
+.article-content p{
+    font-size: 20px;
+    margin: 15px 5vw ;
+}
+
+.article-content-btn{
+    margin: 50px auto;
+    left: 0;
+    right: 0;
+    position: absolute;
+}
